@@ -1,5 +1,5 @@
 #include <util/delay.h>
-#include <arduino.h>
+#include <Arduino.h>
 
 void setup()
 {
